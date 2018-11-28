@@ -1,0 +1,9 @@
+C:\Users\Josmary Hernandez\Desktop\Carpeta para el 28 de Noviembre 2018\SistemadeRed2\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Josmary Hernandez\Desktop\Carpeta para el 28 de Noviembre 2018\SistemadeRed2\Cliente\bin\Debug\Cliente.exe
+C:\Users\Josmary Hernandez\Desktop\Carpeta para el 28 de Noviembre 2018\SistemadeRed2\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Josmary Hernandez\Desktop\Carpeta para el 28 de Noviembre 2018\SistemadeRed2\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\Josmary Hernandez\Desktop\Carpeta para el 28 de Noviembre 2018\SistemadeRed2\Cliente\obj\Debug\Cliente.ClienteForm.resources
+C:\Users\Josmary Hernandez\Desktop\Carpeta para el 28 de Noviembre 2018\SistemadeRed2\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\Josmary Hernandez\Desktop\Carpeta para el 28 de Noviembre 2018\SistemadeRed2\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\Josmary Hernandez\Desktop\Carpeta para el 28 de Noviembre 2018\SistemadeRed2\Cliente\obj\Debug\Cliente.exe
+C:\Users\Josmary Hernandez\Desktop\Carpeta para el 28 de Noviembre 2018\SistemadeRed2\Cliente\obj\Debug\Cliente.pdb
